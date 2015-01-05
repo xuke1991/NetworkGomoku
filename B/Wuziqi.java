@@ -83,8 +83,8 @@ class Wuziqi extends JFrame implements ActionListener, MouseListener, MouseMotio
 	private JTextArea chatLabel = new JTextArea("");
 	private JScrollPane	chatLabelScroll = new JScrollPane(chatLabel);
 	private JTextField messageField = new JTextField();
-	private JButton sendMessage = new JButton("·¢ËÍ");
-	private JButton clearMessage = new JButton("Çå¿Õ");
+	private JButton sendMessage = new JButton("Send");
+	private JButton clearMessage = new JButton("Clear");
 	public JLabel lblWin = new JLabel(" ");
 	public JLabel oppsInfor = new JLabel(" ");
 	public JLabel myInfor = new JLabel(" ");
