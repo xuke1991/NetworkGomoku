@@ -1,0 +1,3 @@
+A list of figure and portrait of the players
+dll.txt for figures
+my_portrait.txt for portraits
