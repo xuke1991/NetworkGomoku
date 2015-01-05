@@ -10,6 +10,7 @@ NetworkGomoku
  * Add friend; public broadcast; private chat
  * Saving game for reviewing
  * Allow bystanders to watch the game
+ *
  */
 
 
